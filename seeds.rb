@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream:seeds.rb
+=======
+puts "Seeding movies"
+>>>>>>> Stashed changes:db/seeds.rb
 Movie.create([
   {
     title: "The Color Purple",
@@ -143,3 +147,7 @@ Movie.create([
     female_director: true
   }
 ])
+<<<<<<< Updated upstream:seeds.rb
+=======
+puts "Done"
+>>>>>>> Stashed changes:db/seeds.rb
